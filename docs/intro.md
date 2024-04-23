@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Documento de Prueba
 
-Hola Este es el repositorio de la carrera de Ingenieria de Sosftware 6to Ciclo 
+Hola Este es el repositorio de la carrera de Ingenieria de Sosftware 6to Ciclo, se están realizando cambios en este repositorio
 
 ## Getting Started
 
