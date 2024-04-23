@@ -1,0 +1,8 @@
+{
+  "label": "Clase número 1",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Pasos para crear una conexion a base de datos de equipos externos mediante un usuario."
+  }
+}
