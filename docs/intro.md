@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Documento de Prueba
 
 Hola Este es el repositorio de la carrera de Ingenieria de Sosftware 6to Ciclo 
 
