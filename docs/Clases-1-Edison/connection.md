@@ -2,5 +2,8 @@
 sidebar_position: 3
 ---
 
-# Coneccion a la base de datos
+# Database Conection
 
+1. Coneccion a la base datos
+
+![Locale Dropdown](./img/coneccion.png)
