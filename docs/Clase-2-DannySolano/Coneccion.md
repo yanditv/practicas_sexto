@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 **CREACION DE CUBOS DE DATO**
 
 1.Primero descargamos la extensión “MICROSOFT ANALYSIS SERVICES PROJECTS”, y la instalamos.
