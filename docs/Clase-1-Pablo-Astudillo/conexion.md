@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # PRACTICA #1 – CONEXIÓN A BASE DE DATOS SQL SERVER EN USUARIO CREADO
 
 ## Estudiante: Pablo Astudillo
