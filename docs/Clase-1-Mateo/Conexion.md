@@ -21,16 +21,16 @@ sidebar_position: 1
 
 4.  Hacemos ping a la maquina de mi compañero:
 
-![Locale Dropdown](./img/imagen5.jpg)
+![Locale Dropdown](./img/imagen5.png)
 
 5.  Mi compañero me hace ping a mi:
 
-![Locale Dropdown](./img/imagen6.jpg)
+![Locale Dropdown](./img/imagen6.png)
 
 6.  Me conecto a la base de datos de mi compañero con el usuario: usrPrueba
 
-![Locale Dropdown](./img/imagen7.jpg)
+![Locale Dropdown](./img/imagen7.png)
 
 7.  Mi compañero se conecta a mi base de datos con el usuario: test
 
-![Locale Dropdown](./img/imagen8.jpg)
+![Locale Dropdown](./img/imagen8.png)
