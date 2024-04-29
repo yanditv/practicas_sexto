@@ -15,5 +15,5 @@ sidebar_position: 1
 ![Locale Dropdown](./img/7.png)
 ![Locale Dropdown](./img/8.png)
 ![Locale Dropdown](./img/9.png)
-![Locale Dropdown](./img/10.png)
+<!-- ![Locale Dropdown](./img/10.png) -->
 
