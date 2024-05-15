@@ -30,4 +30,3 @@ sidebar_position: 1
 ![Locale Dropdown](./img/6.png)
 
 7.  Conexión al usuario prueba y a la BD Facturación exitosa:
-![Locale Dropdown](./img/7.png)
